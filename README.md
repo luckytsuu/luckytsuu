@@ -3,7 +3,7 @@
 
 ###
 
-<img align="left" height="138" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc4cDBvb3Rhdjk3MzZpNnQ3NmR3MHVoZjdhdTdwcmc0djU5ZmUxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif"  />
+<img align="left" height="138" src="./duck.gif"/>
 
 ###
 
