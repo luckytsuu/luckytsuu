@@ -3,7 +3,7 @@
 
 ###
 
-<img align="left" height="138" src="./duck.gif"/>
+<img align="right" height="200" src="./duck.gif"/>
 
 ###
 
