@@ -15,7 +15,7 @@ I'm a 18-year-old developer passionate about **software engineering, robotics, a
 
 ###
 
-[![College](https://img.shields.io/badge/Mechatronics%20Engineering-UPE-blue)](https://poli.br/engenharia-de-controle-e-automacao/)
+[![College](https://img.shields.io/badge/Mechatronic%20Engineering-UPE-blue)](https://poli.br/engenharia-de-controle-e-automacao/)
 
 --- 
 ## 📚 My Stack
